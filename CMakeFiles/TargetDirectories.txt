@@ -1,0 +1,3 @@
+/home/dmitry/GitHub/tmp/OpticalFlowFarner/CMakeFiles/edit_cache.dir
+/home/dmitry/GitHub/tmp/OpticalFlowFarner/CMakeFiles/OpticalFlow.dir
+/home/dmitry/GitHub/tmp/OpticalFlowFarner/CMakeFiles/rebuild_cache.dir
