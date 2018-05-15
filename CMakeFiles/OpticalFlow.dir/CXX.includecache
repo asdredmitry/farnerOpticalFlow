@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/dmitry/GitHub/tmp/OpticalFlowFarner/main.cpp
+/home/dmitry/GitHub/farnerOpticalFlow/main.cpp
 iostream
 -
 cmath
@@ -22,6 +22,16 @@ opencv2/video.hpp
 opencv2/highgui.hpp
 -
 unistd.h
+-
+string
+-
+opencv2/imgproc.hpp
+/home/dmitry/GitHub/farnerOpticalFlow/opencv2/imgproc.hpp
+opencv2/videoio.hpp
+/home/dmitry/GitHub/farnerOpticalFlow/opencv2/videoio.hpp
+opencv2/highgui.hpp
+/home/dmitry/GitHub/farnerOpticalFlow/opencv2/highgui.hpp
+iostream
 -
 
 /usr/local/include/opencv/cxcore.h
